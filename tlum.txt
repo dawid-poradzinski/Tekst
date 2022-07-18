@@ -1,0 +1,6 @@
+Dialogue: 0,0:01:23.96,0:01:27.25,Subtitle,,0,0,0,,Kiedyś to było!
+Dialogue: 0,0:01:27.63,0:01:29.25,Subtitle,,0,0,0,,A ty o czym nagle?
+Dialogue: 0,0:01:29.63,0:01:32.42,Subtitle,,0,0,0,,Za starych czasów\Nbyło o wiele lepiej, nie to co teraz.
+Dialogue: 0,0:01:32.75,0:01:34.67,Subtitle,,0,0,0,,Jak niby lepiej?!
+Dialogue: 0,0:01:34.67,0:01:36.88,Subtitle,,0,0,0,,Chyba ci się to śniło!
+Dialogue: 0,0:01:36.88,0:01:40.25,Subtitle,,0,0,0,,Przecież teraz jest najlepiej.
